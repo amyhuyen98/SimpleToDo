@@ -33,8 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-Differences between the autofill on my Android Studio and the one shown in the video caused some confusion, but the issues were resolved 
-upon further inspection of the code in the video and discussion with pod members
+
+Differences between the autofill on my Android Studio and the one shown in the video caused some confusion, but the issues were resolved upon further inspection of the code in the video and discussion with pod members.
 
 ## License
 
