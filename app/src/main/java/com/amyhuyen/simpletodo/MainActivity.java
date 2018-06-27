@@ -20,7 +20,7 @@ import java.nio.charset.Charset;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-First
+
     // a numeric code to identify the edit activity
     public final static int EDIT_REQUEST_CODE = 20;
     // keys used for passing data between activities
